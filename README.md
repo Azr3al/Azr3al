@@ -9,24 +9,24 @@
 - Resume: [In progress](link)
 
 <h2 align="center">Connect with me</h2>
-<table style="border-collapse: collapse; margin: 0 auto; text-align: center; border: none;">
-  <tr style="border: none;">
-    <td style="padding: 0 40px; border: none;">Click me</td>
-    <td style="padding: 0 40px; border: none;">Add .azr3al</td>
-  </tr>
-  <tr style="border: none;">
-    <td style="padding: 5px 40px; border: none;">
-      <a href="https://linkedin.com/in/okkar-win-han" target="_blank">
-        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-      </a>
-    </td>
-    <td style="padding: 5px 40px; border: none;">
-      <a href="https://discord.com/app" target="_blank">
-        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/discord.svg" alt="Discord" height="30" width="40" />
-      </a>
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <div style="font-size: 20px; font-weight: bold; line-height: 1.5;">
+    Click me &nbsp;------------------------&nbsp; Add .azr3al
+  </div>
+  <div style="font-size: 24px; line-height: 0.5; margin-top: -5px;">
+    |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+  </div>
+  <div style="margin-top: 10px;">
+    <a href="https://linkedin.com/in/okkar-win-han" target="_blank">
+      <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/linkedin.svg" alt="LinkedIn" height="30" width="50">
+    </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://discord.com/app" target="_blank">
+      <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/discord.svg" alt="Discord" height="30" width="50">
+    </a>
+  </div>
+</div>
 
 
 
