@@ -8,11 +8,27 @@
 - Contact: **okkarwinhan@gmail.com**
 - Resume: [In progress](link)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/okkar-win-han" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okkar-win-han" height="30" width="40" /></a>
-<a href="Add .azr3al on discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".azr3al" height="30" width="40" /></a>
-</p>
+<h2 align="center">Connect with me</h2>
+<table style="border-collapse: collapse; margin: 0 auto; text-align: center; border: none;">
+  <tr style="border: none;">
+    <td style="padding: 0 40px; border: none;">Click me</td>
+    <td style="padding: 0 40px; border: none;">Add .azr3al</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="padding: 5px 40px; border: none;">
+      <a href="https://linkedin.com/in/okkar-win-han" target="_blank">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+      </a>
+    </td>
+    <td style="padding: 5px 40px; border: none;">
+      <a href="https://discord.com/app" target="_blank">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/discord.svg" alt="Discord" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 <h1>My personal Toolkit</h1>
 <table>
